@@ -9,6 +9,12 @@ Invite -  [Invite Liam!](https://discordapp.com/oauth2/authorize?client_id=38960
 # Changelog
 
 ## Liam V5.4
+#### Frontend Updates
+
 - Added support for channel mentions when bumping
+
+### Backend Updates
 - Added maintenance mode
 - Updated permission values
+- Disabled queue backups
+- Fixes smaller bugs
