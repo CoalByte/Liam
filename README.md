@@ -1,5 +1,5 @@
 # Liam
-Liam is an advanced discord bump bot
+A discord bump bot, bumping to over 3.5k servers since 2017.
 
 ### Resources:
 Top.gg listing - https://top.gg/bot/389604896606781440
