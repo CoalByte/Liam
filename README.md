@@ -22,6 +22,16 @@ Invite -  [Invite Liam!](https://discordapp.com/oauth2/authorize?client_id=38960
 
 # Changelog
 
+## Liam V5.4.1
+Released 05/12/2020
+
+#### Frontend Updates
+- Updated cooldown for `*setup` to 5 minutes from 30 minutes.
+
+### Backend Updates
+- Permissions update
+- Clean up unused code 
+
 ## Liam V5.4
 Released 21/11/2020
 
