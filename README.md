@@ -23,34 +23,33 @@ Invite -  [Invite Liam!](https://discordapp.com/oauth2/authorize?client_id=38960
 
 # Changelog
 
-## Liam V5.4.2
+## `Liam V5.4.2`
 Released 07/01/2021
 
-#### Frontend Updates
+##### Frontend Updates
 - None
 
-### Backend Updates
+##### Backend Updates
 - Removed unnessecary arguments
 - Added future.support module
 
-## Liam V5.4.1
+## `Liam V5.4.1`
 Released 05/12/2020
 
-#### Frontend Updates
+##### Frontend Updates
 - Updated cooldown for `*setup` to 5 minutes from 30 minutes.
 
-### Backend Updates
+##### Backend Updates
 - Permissions update
 - Clean up unused code 
 
-## Liam V5.4
+## `Liam V5.4`
 Released 21/11/2020
 
-#### Frontend Updates
-
+##### Frontend Updates
 - Added support for channel mentions when bumping
 
-### Backend Updates
+##### Backend Updates
 - Added maintenance mode
 - Updated permission values
 - Disabled queue backups
