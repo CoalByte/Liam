@@ -1,24 +1,35 @@
 # Liam
-A discord bump bot, bumping to over 3.5k servers since 2017.
+A discord bump bot, bumping to over 3.5k.
 
 
 ### Resources:
-Top.gg listing - https://top.gg/bot/389604896606781440
+[top.gg listing here](https://top.gg/bot/389604896606781440)
 
-Invite -  [Invite Liam!](https://discordapp.com/oauth2/authorize?client_id=389604896606781440&scope=bot&permissions=8)
+[Invite](https://discordapp.com/oauth2/authorize?client_id=389604896606781440&scope=bot&permissions=8)
 
 ### Bot Commands:
 *premium
+
 *bump
+
 *biq
+
 *preview
+
 *setup
+
 *bug
+
 *credits
+
 *support
+
 *help
+
 *shard
+
 *ping
+
 *invite
 
 # Changelog
