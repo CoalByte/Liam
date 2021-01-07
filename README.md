@@ -9,27 +9,16 @@ A discord bump bot, bumping to over 3.5k.
 
 ### Bot Commands:
 *premium
-
 *bump
-
 *biq
-
 *preview
-
 *setup
-
 *bug
-
 *credits
-
 *support
-
 *help
-
 *shard
-
 *ping
-
 *invite
 
 # Changelog
@@ -43,6 +32,7 @@ Released 07/01/2021
 ##### Backend Updates
 - Removed unnessecary arguments
 - Added future.support module
+- Remove unnessecary todo / future
 
 ## `Liam V5.4.1`
 Released 05/12/2020
