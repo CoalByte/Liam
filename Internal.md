@@ -1,5 +1,3 @@
-# Liam Internal(s)
-
 BACKUP=False
 RECOVERY_TIMEOUT=1.5
 RECOVERY_ATMP=2
