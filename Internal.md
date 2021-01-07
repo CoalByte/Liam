@@ -1,7 +1,5 @@
 # Liam Internal(s)
 
-RAISE_ERRORS=False
-
 BACKUP=False
 
 RECOVERY_TIMEOUT=1.5
