@@ -1,4 +1,4 @@
-# Liam
+# Liam / AYS Bump
 A discord bump bot, bumping to over 3.5k.
 
 
