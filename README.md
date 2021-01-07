@@ -33,6 +33,7 @@ Released 07/01/2021
 - Removed unnessecary arguments
 - Added future.support module
 - Remove unnessecary todo / future
+- Cleaned imports
 
 ## `Liam V5.4.1`
 Released 05/12/2020
@@ -55,3 +56,5 @@ Released 21/11/2020
 - Updated permission values
 - Disabled queue backups
 - Fixes smaller bugs
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Powered by PyBump 2020`
