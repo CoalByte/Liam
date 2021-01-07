@@ -23,6 +23,16 @@ Invite -  [Invite Liam!](https://discordapp.com/oauth2/authorize?client_id=38960
 
 # Changelog
 
+## Liam V5.4.2
+Released 07/01/2021
+
+#### Frontend Updates
+- None
+
+### Backend Updates
+- Removed unnessecary arguments
+- Added future.support module
+
 ## Liam V5.4.1
 Released 05/12/2020
 
