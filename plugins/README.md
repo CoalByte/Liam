@@ -11,6 +11,7 @@ No documentation yet
 
 ## How can I get my extension added to Liam?
 Firstly, create a new folder with your extension file and a `contrib.json` file.
+
 `contrib.json`:
 ```json
 {"author": "example",
