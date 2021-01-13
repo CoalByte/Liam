@@ -23,6 +23,19 @@ A discord bump bot, bumping to over 3.5k.
 
 # Changelog
 
+## `Liam V5.5`
+Released 13/01/2021
+
+### Frontend Updates
+- Added verify
+- Added verification badge on bump
+
+### Backend Updates
+- Database updated
+- Added more refresh tasks
+- Added internals fetching from github
+- Updated configuration
+
 ## `Liam V5.4.2`
 Released 07/01/2021
 
