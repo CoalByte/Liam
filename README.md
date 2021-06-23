@@ -1,5 +1,10 @@
 # Liam / AYS Bump
-A discord bump bot, bumping to over 3.5k.
+
+```diff
+- DEPRECATED SINCE VERSION V6.0
+```
+
+A discord bump bot, bumping to over 3.5k discord server.
 
 
 ### Resources:
