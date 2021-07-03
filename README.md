@@ -1,7 +1,7 @@
 # Liam / AYS Bump
 
 ```diff
-- DEPRECATED SINCE VERSION V6.0
+- DEPRECATED SINCE RELEASE OF VERSION V6.0 -
 ```
 
 A discord bump bot, bumping to over 3.5k discord server.
